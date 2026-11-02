@@ -1,8 +1,8 @@
-# TOLLIS — Toll Interoperability System
+# TOLLIS: Toll Interoperability System
 
 TOLLIS lets highway toll operators settle what they owe each other. When a vehicle with one operator's tag passes through another operator's toll station, the pass is recorded and charged to the tag's operator. TOLLIS stores these passes and provides the analysis and settlement on top of them: passes per station, charges between operators, who owes whom for a given period, and payments that clear the balance.
 
-Built by **Team 27** for the *Software Engineering* course (2024–25), School of Electrical and Computer Engineering, NTUA.
+Built by **Team 27** for the *Software Engineering* course (2024-25), School of Electrical and Computer Engineering, NTUA.
 
 ## Components
 
